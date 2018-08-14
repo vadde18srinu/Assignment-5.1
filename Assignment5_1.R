@@ -29,6 +29,8 @@ num_vowels
 # Ans: barplot
 
 barplot(num_vowels, main = "Number of vowels in USA States Name",
-        border = NA, ylim = c(0,80))
+        border = "red", ylim = c(0,80))
+
+
 
 
